@@ -1,6 +1,6 @@
 Name:		python-installer
 Version:	0.7.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/i/installer/installer-%{version}.tar.gz
 Summary:	A library for installing Python wheels.
 URL:		https://pypi.org/project/installer/
