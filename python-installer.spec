@@ -2,7 +2,7 @@
 
 Name:		python-installer
 Version:	1.0.1
-Release:	1
+Release:	2
 Summary:	A library for installing Python wheels.
 License:	MIT
 Group:		Development/Python
